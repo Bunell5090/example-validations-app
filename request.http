@@ -1,0 +1,14 @@
+### Validations Index
+GET http://localhost:3000/validations
+
+### Validations Create
+POST http://localhost:3000/validations
+
+### Validations Show
+GET http://localhost:3000/validations/0
+
+### Validations Update
+PATCH http://localhost:3000/validations/0
+
+### Validations Delete 
+DELETE http://localhost:3000/validations/0
